@@ -1,3 +1,3 @@
-export const USERNAME_INPUT = '#user-name';
-export const PASSWORD_INPUT = '#password';
-export const LOGIN_BUTTON = '#login-button';
+export const INPUT_USUARIO = '#user-name';
+export const INPUT_PASSWORD = '#password';
+export const BTN_LOGIN = '#login-button';

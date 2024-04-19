@@ -1,9 +1,3 @@
-class Actions{
-
-    clickEnElemento(selector){
-        cy.get(selector).click();
-    }
-
-}
-
-export default Actions;
+Cypress.Commands.add("clickEnElemento", (elemento) => {
+    cy.get(elemento).click()
+})

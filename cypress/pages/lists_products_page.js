@@ -1,1 +1,1 @@
-export const TITULO_LABEL = '.product_label';
+export const TITULO_PAGINA = '.product_label';
